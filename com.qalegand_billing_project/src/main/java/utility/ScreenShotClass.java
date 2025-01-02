@@ -34,7 +34,7 @@ public class ScreenShotClass {
 																													// save
 																													// file
 		File finalDestination = new File(destinationPath);
-		FileHandler.copy(screenshotFile, finalDestination); // FileHandle class is us used to copy sceenshot to
+		FileHandler.copy(screenshotFile, finalDestination); // FileHandle class is us used to copy screenshot to
 															// destination
 
 	}
